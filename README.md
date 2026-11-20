@@ -5,9 +5,9 @@ Final project: ASP.NET Core Web API (backend) + React app (frontend).
 ## Team
 
 | MEMBER | ROLE |
-|--------|------|
-| <mary soriano>| Backend Developer |
-| <justine damasco> | Frontend Developer |
+| ------ | ---- |
+| `<Mary Rose Soriano>` | Backend Developer |
+| `<Justine Damasco>` | Frontend Developer |
 
 ## Repository layout
 
