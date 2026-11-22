@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+# SQLite database (recreated + seeded on first run)
+*.db
+*.db-shm
+*.db-wal
+# Frontend
+node_modules/
+dist/
+# Misc
+.env
